@@ -22,7 +22,7 @@ public class QueueUsingTwoStack {
                 resize(2*s.length);
             }
             s[N++] = item;
-        }
+        }   
         public Integer pop(){
             if(isEmpty()){
                 throw new RuntimeException("Stack is empty");

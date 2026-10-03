@@ -1,0 +1,5 @@
+With two algorithms: SelectionSort and InsertionSort, shouldn't use LinkedList as input.
+Because of many reasons :
+1. Cache locality : Array save the elements near by to inform consistent array. So CPU can read the input very fast.
+   Whereas, the nodes of LinkedList lie random on Cache; When the algorithms implements again consistenly, CPU will get 'cache miss';
+2. The time to access on every a[i], a[j] is O(N); too slow and expensive;
