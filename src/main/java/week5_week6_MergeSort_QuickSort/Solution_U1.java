@@ -1,4 +1,4 @@
-package week5_MergeSort_QuickSort;
+package week5_week6_MergeSort_QuickSort;
 
 public class Solution_U1 {
     public static int binarySearch(int[] arr, int low, int high, int key) {

@@ -1,4 +1,4 @@
-package week5_MergeSort_QuickSort;
+package week5_week6_MergeSort_QuickSort;
 
 public class Solution_U6 {
     public static void exch(int[] arr, int i, int j){

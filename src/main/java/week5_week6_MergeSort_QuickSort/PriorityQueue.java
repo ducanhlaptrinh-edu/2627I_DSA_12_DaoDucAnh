@@ -1,4 +1,4 @@
-package week5_MergeSort_QuickSort;
+package week5_week6_MergeSort_QuickSort;
 
 import java.util.NoSuchElementException;
 
